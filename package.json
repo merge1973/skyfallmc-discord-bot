@@ -2,10 +2,10 @@
   "name": "skyfallmc-discord-bot",
   "version": "1.0.0",
   "description": "SkyfallMC's Discord Bot, made using Node.js",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon ."
+    "dev": "nodemon index.ts"
   },
   "repository": {
     "type": "git",
